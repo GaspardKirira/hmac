@@ -17,5 +17,11 @@
       "name": "Gaspard Kirira",
       "github": "Gaspardkirira"
     }
+  ],
+  "deps": [
+    {
+      "id": "gaspardkirira/hashing",
+      "version": "0.1.0"
+    }
   ]
 }
