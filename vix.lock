@@ -1,0 +1,12 @@
+{
+  "dependencies": [
+    {
+      "commit": "7a037b316726bc72ab722683bcd16519b848cc88",
+      "id": "gaspardkirira/hashing",
+      "repo": "https://github.com/GaspardKirira/hashing",
+      "tag": "v0.1.0",
+      "version": "0.1.0"
+    }
+  ],
+  "lockVersion": 1
+}
